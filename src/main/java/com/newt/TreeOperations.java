@@ -9,7 +9,7 @@ public class TreeOperations {
 	public static void main(String[] args) {
 		Node root = constructTree();
 		// postOrderTraversal(root);
-		// levelOrderTraversal(root);
+		  levelOrderTraversal(root);
 		// zigzagTraversal(root);
 		// convertBinaryTreeTODoublyLinkedList(root, "start");
 		//inOrderTraversalUsingIterativeApproach(root);
