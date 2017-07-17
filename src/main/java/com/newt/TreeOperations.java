@@ -14,7 +14,7 @@ public class TreeOperations {
 		// convertBinaryTreeTODoublyLinkedList(root, "start");
 		//inOrderTraversalUsingIterativeApproach(root);
 		//preOrderTraversalByIterativeApproach(root);
-		postOrderTraversalByIterativeApproach(root);
+		//postOrderTraversalByIterativeApproach(root);
 		
 	}
 
